@@ -5,5 +5,5 @@ function submit_btn() {
 	let l_name = document.getElementById("l_name").value;
 	let phone = document.getElementById("phone_no").value;
 	let Email = document.getElementById("Email").value;
-	alert(`First Name: ${f_name} \nLast Name: ${l_name} \nPhone Number: ${phone} \nEmail ID: ${Email}`)
+	alert(`First Name: ${f_name} Last Name: ${l_name} Phone Number: ${phone} Email ID: ${Email}`)
 }
